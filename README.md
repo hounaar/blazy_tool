@@ -14,9 +14,7 @@ Blazy, a tool fo bruteforce login pages
 - Beautiful Soup
 - Mechanize
 ### Usages
-Open your terminal and enter
-```
-https://github.com/hounaar/blazy_tool.git
+first clone this repository 
 ```
 Now enter the following command
 ```
