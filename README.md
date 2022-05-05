@@ -1,6 +1,6 @@
 # blazy_tool
 Blazy, a tool fo bruteforce login pages
-<p><img src='https://i.imgur.com/Jhwa58j.png' /></p>
+
 
 ### Features
 - [x] Easy target selections
@@ -9,16 +9,14 @@ Blazy, a tool fo bruteforce login pages
 - [x] Cloudflare and WAF Detector
 - [x] 90% accurate results
 - [x] Checks for login bypass via SQL injection
-- [ ] Multi-threading
-- [ ] 100% accurate results
-- [ ] Better form detection and compatibility
+
 #### Requirements
 - Beautiful Soup
 - Mechanize
 ### Usages
 Open your terminal and enter
 ```
-git clone https://github.com/UltimateHackers/Blazy
+https://github.com/hounaar/blazy_tool.git
 ```
 Now enter the following command
 ```
@@ -28,9 +26,12 @@ Lets install the required modules before running Blazy
 ```
 pip install -r requirements.txt
 ```
-Now run Blazy by entering
+Now you can run Blazy by entering
 ```
 python blazy.py
 ```
 Now enter your desired login page URL and Blazy will do its thing:
 <img src='https://i.imgur.com/Ye0ZMpe.png' />
+
+
+### i hope u have enjoyed this repository
