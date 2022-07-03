@@ -15,12 +15,14 @@ Blazy, a tool fo bruteforce login pages
 - Mechanize
 ### Usages
 first clone this repository 
-```
-Now enter the following command
+
+Then enter the following command
 ```
 cd Blazy
 ```
+
 Lets install the required modules before running Blazy
+
 ```
 pip install -r requirements.txt
 ```
